@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Implementation-Title: Jackson-core
+Implementation-Version: 2.9.2
+Built-By: tatu
+Specification-Vendor: FasterXML
+Specification-Title: Jackson-core
+Implementation-Vendor-Id: com.fasterxml.jackson.core
+Implementation-Vendor: FasterXML
+Implementation-Build-Date: 2017-10-14 03:25:27+0000
+X-Compile-Target-JDK: 1.6
+X-Compile-Source-JDK: 1.6
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_152-ea
+Specification-Version: 2.9
+Implementation-URL: https://github.com/FasterXML/jackson-core
+
